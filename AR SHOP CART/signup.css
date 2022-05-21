@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img1{
+    position: absolute;
+    width: 1535px;
+    height: 721.5px;
+    bottom: -1px;
+    top: 0px;
+    left: 0px;
+    right: -1px;
+    image-resolution: 2160px;
+}
+
+.Div-1{
+    position: absolute;
+    width: 460px;
+    height: 550px;
+    left: 542px;
+    top: 80px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 42px;
+}
+
+.Div-1:hover{
+    border: solid 3px rgb(64, 125, 217);
+}
+
+.back1{
+    position: absolute;
+    left: 4%;
+    right: 28.12%;
+    top: 4%;
+    bottom: 12.11%;
+}
+
+.H1{
+    position: absolute;
+    top: 75px;
+    left: 170px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+input{
+    border-radius: 30px;
+    border: transparent;
+    background: #F1F1F1;
+    text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400,bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0);
+    padding-left: 22px;
+    color: black;
+}
+
+input:hover{
+    border: solid 3px rgb(64, 125, 217);
+    
+
+}
+
+.In1{
+    width: 115px;
+    height: 46px;
+}
+
+.In2{
+    width: 115px;
+    height: 46px;
+}
+
+.In3{
+    width: 236px;
+    height: 46px;
+    padding-right: 22px;
+}
+
+.In4{
+    color: 
+    rgba(0, 0, 0, 0.6);
+    padding-right: 22px;
+    width: 236px;
+    height: 46px;
+}
+
+.Div-2{
+    position: absolute;
+    top: 140px;
+    right: 85px;
+}
+
+.Div-3{
+    position: absolute;
+    top: 200px;
+    right: 85px;
+    display: grid;
+    gap: 15px;
+}
+
+.btn-1{
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: 85px;
+    top: 250px;
+    background: #5252B4;
+    border-radius: 20px;
+    font-family: 'roboto', sans-serif;
+    color: #F1F1F1;
+}
+
