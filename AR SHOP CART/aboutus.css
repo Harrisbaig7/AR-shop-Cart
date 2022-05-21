@@ -24,7 +24,7 @@
     top: 48px;
     display: flex;
     gap: 50px;
-    font-size: 30px;
+    font-size: 25px;
     color: white;
     text-align: center;
 }
@@ -34,9 +34,9 @@
     bottom: 7px;
     width: 160px;
     height: 40px;
-    padding: 5px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     border-radius: 10px;
-    font-size: 30px;
+    font-size: 25px;
     background-color: rgba(45, 28, 156, 1);
     color: white;
     /* box-shadow: 0 0px 5px 0 rgba(49, 48, 105, 1); */
@@ -61,4 +61,43 @@ button{
 
 .ccc{
     color: white;
+}
+
+.DIV-1{
+    position: absolute;
+    width: 670px;
+    height: 540px;
+    left: 630px;
+    top: 150px;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+.h1{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 170px;
+    top: 50px;
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    color: #3E27BF;
+}
+
+.para1{
+    position: absolute;
+    color: #3627D2;
+    left: 40px;
+    top: 130px;
+    font-family: Livvic;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
 }
